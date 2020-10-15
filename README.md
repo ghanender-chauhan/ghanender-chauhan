@@ -22,6 +22,8 @@ Also doing some questions in jupyter notebook to learn it.
 
 I Started GITHUB in OCT to interact with  the tech community.
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=ghanender-chauhan)
+
 **Thank you**
 
 *PS: I'm still trying to get the hang of GITHUB markdown*
